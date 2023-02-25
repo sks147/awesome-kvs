@@ -1,5 +1,5 @@
 # awesome-kvs
-⚡ A curated list of Key Value Stores and Databases 
+⚡ A curated list of Key Value Stores and Databases
 
 ## redis
 
@@ -13,19 +13,19 @@ Redis is an in-memory database that persists on disk. The data model is key-valu
 **Created Date**: 2009-03-22
 
 
-**Last Updated**: 2023-02-23
+**Last Updated**: 2023-02-25
 
 
-**Open Issues**: 2307
+**Open Issues**: 2304
 
 
-**Stars**: 58625
+**Stars**: 58647
 
 
-**Watchers**: 58625
+**Watchers**: 58647
 
 
-**Forks**: 22236
+**Forks**: 22242
 
 
 **Languages**: C, Tcl, Ruby, Python, Shell, Makefile, C++, Smarty
@@ -47,16 +47,16 @@ Distributed reliable key-value store for the most critical data of a distributed
 **Created Date**: 2013-07-07
 
 
-**Last Updated**: 2023-02-23
+**Last Updated**: 2023-02-25
 
 
-**Open Issues**: 204
+**Open Issues**: 209
 
 
-**Stars**: 42662
+**Stars**: 42682
 
 
-**Watchers**: 42662
+**Watchers**: 42682
 
 
 **Forks**: 9077
@@ -81,19 +81,19 @@ LevelDB is a fast key-value storage library written at Google that provides an o
 **Created Date**: 2014-08-28
 
 
-**Last Updated**: 2023-02-23
+**Last Updated**: 2023-02-25
 
 
 **Open Issues**: 263
 
 
-**Stars**: 31919
+**Stars**: 31942
 
 
-**Watchers**: 31919
+**Watchers**: 31942
 
 
-**Forks**: 7106
+**Forks**: 7110
 
 
 **Languages**: C++, C, CMake
@@ -115,19 +115,19 @@ A library that provides an embeddable, persistent key-value store for fast stora
 **Created Date**: 2012-11-30
 
 
-**Last Updated**: 2023-02-23
+**Last Updated**: 2023-02-25
 
 
-**Open Issues**: 856
+**Open Issues**: 859
 
 
-**Stars**: 24571
+**Stars**: 24583
 
 
-**Watchers**: 24571
+**Watchers**: 24583
 
 
-**Forks**: 5601
+**Forks**: 5605
 
 
 **Languages**: C++, Java, C, Python, Perl, Shell, Makefile, CMake, PowerShell, Assembly, Dockerfile
@@ -149,19 +149,19 @@ A modern replacement for Redis and Memcached
 **Created Date**: 2021-12-11
 
 
-**Last Updated**: 2023-02-23
+**Last Updated**: 2023-02-25
 
 
-**Open Issues**: 108
+**Open Issues**: 103
 
 
-**Stars**: 16988
+**Stars**: 17012
 
 
-**Watchers**: 16988
+**Watchers**: 17012
 
 
-**Forks**: 559
+**Forks**: 560
 
 
 **Languages**: C++, C, Python, CMake, Shell, Smarty, Dockerfile, Makefile
@@ -183,19 +183,19 @@ A modern replacement for Redis and Memcached
 **Created Date**: 2011-10-26
 
 
-**Last Updated**: 2023-02-23
+**Last Updated**: 2023-02-24
 
 
-**Open Issues**: 756
+**Open Issues**: 764
 
 
-**Stars**: 12834
+**Stars**: 12832
 
 
-**Watchers**: 12834
+**Watchers**: 12832
 
 
-**Forks**: 808
+**Forks**: 809
 
 
 **Languages**: C++, JavaScript, NASL, CMake, C, Python, SCSS, EJS, CSS, TypeScript, Shell, Yacc, Pascal, NSIS, HTML, LLVM, Perl, PowerShell, Dockerfile
@@ -217,19 +217,19 @@ memcached development tree
 **Created Date**: 2009-04-25
 
 
-**Last Updated**: 2023-02-23
+**Last Updated**: 2023-02-25
 
 
-**Open Issues**: 81
+**Open Issues**: 80
 
 
-**Stars**: 12437
+**Stars**: 12440
 
 
-**Watchers**: 12437
+**Watchers**: 12440
 
 
-**Forks**: 3157
+**Forks**: 3159
 
 
 **Languages**: C, Perl, C++, M4, Python, Lua, DTrace, Shell, Makefile, Roff, Starlark
@@ -251,19 +251,19 @@ FoundationDB - the open source, distributed, transactional key-value store
 **Created Date**: 2017-12-14
 
 
-**Last Updated**: 2023-02-23
+**Last Updated**: 2023-02-25
 
 
-**Open Issues**: 945
+**Open Issues**: 947
 
 
-**Stars**: 12086
+**Stars**: 12091
 
 
-**Watchers**: 12086
+**Watchers**: 12091
 
 
-**Forks**: 1201
+**Forks**: 1202
 
 
 **Languages**: C++, C, Python, Java, Go, CMake, C#, HTML, Ruby, Shell, Assembly, JavaScript, CSS, Dockerfile, Rich Text Format
@@ -285,16 +285,16 @@ immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof,
 **Created Date**: 2019-11-07
 
 
-**Last Updated**: 2023-02-23
+**Last Updated**: 2023-02-25
 
 
-**Open Issues**: 138
+**Open Issues**: 142
 
 
-**Stars**: 8086
+**Stars**: 8088
 
 
-**Watchers**: 8086
+**Watchers**: 8088
 
 
 **Forks**: 303
@@ -319,19 +319,19 @@ A Multithreaded Fork of Redis
 **Created Date**: 2019-02-01
 
 
-**Last Updated**: 2023-02-23
+**Last Updated**: 2023-02-25
 
 
-**Open Issues**: 126
+**Open Issues**: 127
 
 
-**Stars**: 6910
+**Stars**: 6942
 
 
-**Watchers**: 6910
+**Watchers**: 6942
 
 
-**Forks**: 411
+**Forks**: 413
 
 
 **Languages**: C++, C, Tcl, Shell, Ruby, Makefile, Roff, Python, Assembly, Dockerfile, Smarty
@@ -353,19 +353,19 @@ Open-source distributed computation and storage platform. Real-time Stream Proce
 **Created Date**: 2012-03-21
 
 
-**Last Updated**: 2023-02-23
+**Last Updated**: 2023-02-24
 
 
-**Open Issues**: 1271
+**Open Issues**: 1282
 
 
-**Stars**: 5253
+**Stars**: 5254
 
 
-**Watchers**: 5253
+**Watchers**: 5254
 
 
-**Forks**: 1728
+**Forks**: 1727
 
 
 **Languages**: Java, FreeMarker, Shell, Python, Batchfile, C, Kotlin
@@ -390,7 +390,7 @@ Apache Ignite
 **Last Updated**: 2023-02-23
 
 
-**Open Issues**: 667
+**Open Issues**: 668
 
 
 **Stars**: 4383
@@ -399,7 +399,7 @@ Apache Ignite
 **Watchers**: 4383
 
 
-**Forks**: 1828
+**Forks**: 1826
 
 
 **Languages**: Java, C#, C++, Python, Shell, CMake, Batchfile, Jinja, FreeMarker, HTML, Dockerfile, PHP, PowerShell, C, JavaScript, Makefile
@@ -421,19 +421,19 @@ A high performance NoSQL Database Server powered by Go
 **Created Date**: 2014-04-30
 
 
-**Last Updated**: 2023-02-23
+**Last Updated**: 2023-02-24
 
 
 **Open Issues**: 0
 
 
-**Stars**: 3940
+**Stars**: 3942
 
 
-**Watchers**: 3940
+**Watchers**: 3942
 
 
-**Forks**: 441
+**Forks**: 442
 
 
 **Languages**: Go, Python, Shell, Dockerfile, C++, Makefile, C
@@ -458,7 +458,7 @@ Riak is a decentralized datastore from Basho Technologies.
 **Last Updated**: 2023-02-22
 
 
-**Open Issues**: 152
+**Open Issues**: 142
 
 
 **Stars**: 3779
@@ -492,7 +492,7 @@ Aerospike Database Server – flash-optimized, in-memory, nosql database
 **Last Updated**: 2023-02-16
 
 
-**Open Issues**: 11
+**Open Issues**: 8
 
 
 **Stars**: 830
@@ -501,7 +501,7 @@ Aerospike Database Server – flash-optimized, in-memory, nosql database
 **Watchers**: 830
 
 
-**Forks**: 146
+**Forks**: 148
 
 
 **Languages**: C, C++, Makefile, Shell, CSS, Python, Roff, HTML, DTrace
@@ -523,16 +523,16 @@ A low-latency, cloud-native KVS
 **Created Date**: 2019-07-26
 
 
-**Last Updated**: 2023-02-12
+**Last Updated**: 2023-02-25
 
 
 **Open Issues**: 14
 
 
-**Stars**: 633
+**Stars**: 634
 
 
-**Watchers**: 633
+**Watchers**: 634
 
 
 **Forks**: 104
@@ -560,7 +560,7 @@ This is RonDB, a distribution of NDB Cluster developed and used by Hopsworks AB.
 **Last Updated**: 2023-02-23
 
 
-**Open Issues**: 12
+**Open Issues**: 11
 
 
 **Stars**: 445
@@ -625,16 +625,16 @@ A library that provides an embedded, persistent key-value store.
 **Created Date**: 2022-02-22
 
 
-**Last Updated**: 2023-02-23
+**Last Updated**: 2023-02-25
 
 
-**Open Issues**: 83
+**Open Issues**: 81
 
 
-**Stars**: 253
+**Stars**: 255
 
 
-**Watchers**: 253
+**Watchers**: 255
 
 
 **Forks**: 22
@@ -646,3 +646,4 @@ A library that provides an embedded, persistent key-value store.
 **Is Project Archived**: No
 
 ---
+
